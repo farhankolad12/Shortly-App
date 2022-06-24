@@ -27,7 +27,7 @@ Users should be able to:
 
 
 - Solution URL: [SOLUTION](https://your-solution-url.com)
-- Live Site URL: [LIVE SITE](https://your-live-site-url.com)
+- Live Site URL: [LIVE SITE](shortly-farhan.netlify.app)
 
 ## My process
 
